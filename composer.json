@@ -1,0 +1,13 @@
+{
+    "name": "vendor/me-api",
+    "description": "Description of project MeApi.",
+    "authors": [
+        {
+            "name": "cheiler",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+        "slim/slim-skeleton": "dev-master"
+    }
+}
