@@ -5,7 +5,6 @@ use \Psr\Http\Message\ResponseInterface as Response;
 require 'vendor/autoload.php';
 require_once 'functions/errorHandler.php';
 require_once 'functions/functions.php';
-require_once 'functions/person.php';
 
 
 
